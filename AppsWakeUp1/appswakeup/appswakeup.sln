@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appswakeup", "appswakeup.csproj", "{83A5D5E5-3A7B-4023-983B-6C6E49B3DA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A5D5E5-3A7B-4023-983B-6C6E49B3DA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A5D5E5-3A7B-4023-983B-6C6E49B3DA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A5D5E5-3A7B-4023-983B-6C6E49B3DA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A5D5E5-3A7B-4023-983B-6C6E49B3DA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADA2C75-A6AA-4AC9-9D9F-DDE0ECA7962A}
+	EndGlobalSection
+EndGlobal

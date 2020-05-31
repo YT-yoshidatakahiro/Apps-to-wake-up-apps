@@ -1,0 +1,10 @@
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\bin\Debug\appswakeup.exe.config
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\bin\Debug\appswakeup.exe
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\bin\Debug\appswakeup.pdb
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.csprojAssemblyReference.cache
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.AppsWakeUp.resources
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.Properties.Resources.resources
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.csproj.GenerateResource.cache
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.csproj.CoreCompileInputs.cache
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.exe
+C:\Users\yoshida4\Desktop\AppsWakeUp1\appswakeup\obj\Debug\appswakeup.pdb
